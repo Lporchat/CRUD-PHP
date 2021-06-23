@@ -1,0 +1,8 @@
+{
+    "name":"olimpiadas/olimpiadas",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
